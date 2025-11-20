@@ -886,9 +886,11 @@ angle
 boringssl
 clock
 cpu_features
+decimal
 fake_async
 flatbuffers
 gtest-parallel
+rational
 retry
 spirv-cross
 spirv-tools
