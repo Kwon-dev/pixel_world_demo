@@ -92158,7 +92158,7 @@ return A.l(A.MC(!0,new A.afK(),p,o),$async$$0)
 case 2:n=b
 m=q.b.aV(B.kQ.gcF(),t.jm)
 m.sa0(m.x)
-if(p.e!=null)A.MC(!0,new A.afL(n),p,o)
+if(n!=null&&p.e!=null)A.MC(!0,new A.afL(n),p,o)
 return A.r(null,r)}})
 return A.t($async$$0,r)},
 $S:9}
